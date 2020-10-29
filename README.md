@@ -7,4 +7,4 @@ dataset from Kaggle.
 
 I recommend opening the notebook using nbviewer.
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/awray3/league_of_legends/blob/main/league_of_legends.ipynb?flush_cache=true)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/awray3/league_of_legends/blob/main/league_of_legends.ipynb)
